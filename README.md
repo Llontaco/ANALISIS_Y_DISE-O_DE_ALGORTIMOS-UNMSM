@@ -1,1 +1,2 @@
 # ANALISIS_Y_DISE-O_DE_ALGORTIMOS
+ALUMNO : Henry Llontop Falcon
